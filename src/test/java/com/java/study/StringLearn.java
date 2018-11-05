@@ -17,7 +17,7 @@ public class StringLearn {
 
         System.out.println(s1);
 
-        System.out.println(s3);
+        System.out.println(s2);
 
 
     }
